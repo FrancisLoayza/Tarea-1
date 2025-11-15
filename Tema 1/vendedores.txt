@@ -1,0 +1,5 @@
+admin,1234,Administrador General
+jlopez,pass123,Juan Lopez
+mgarcia,ventas2024,Maria Garcia
+francis,f2024,Francis Loayza
+vendedor1,abc123,Carlos Perez

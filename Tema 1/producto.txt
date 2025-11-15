@@ -1,0 +1,8 @@
+P001,Mouse Logitech M90,50,7.50,12.99
+P002,Teclado Redragon K552,30,18.00,29.99
+P003,Auriculares HyperX Cloud,20,45.00,69.99
+P004,Memoria USB Kingston 32GB,100,4.00,7.99
+P005,Monitor Samsung 24 pulgadas,10,120.00,179.99
+P006,Laptop Lenovo i5,5,420.00,599.99
+P007,Router TP-Link Archer C6,15,22.00,39.99
+P008,Mouse Pad Grande RGB,40,5.50,12.00
